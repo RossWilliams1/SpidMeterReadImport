@@ -71,6 +71,6 @@
     <PostDeploy Include="dbo\Script.PostDeployment.sql" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="SpidMeterReadImport.Database.publish.xml" />
+    <None Include="SpidMeterRead.Database.publish.xml" />
   </ItemGroup>
 </Project>
